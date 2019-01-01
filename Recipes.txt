@@ -1,0 +1,12 @@
+ To permanently store your github credentials:
+ 
+ git config credential.helper store
+ 
+ then 
+ git add <insert file name>
+ git commit -m "description of file or change to file"
+ git push
+ <username>
+ <password>
+ 
+ Done!
